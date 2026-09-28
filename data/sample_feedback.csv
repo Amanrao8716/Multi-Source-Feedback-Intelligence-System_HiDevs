@@ -1,0 +1,37 @@
+source,review_text,rating,review_date
+Google Play,"Love how easy it is to track my daily progress. Great app!",5,2026-08-03
+Google Play,"The app crashes whenever I open my saved items.",1,2026-08-04
+Apple App Store,"Clean design and simple navigation. Very helpful.",5,2026-08-05
+CSV Survey,"Loading takes forever after the latest update.",2,2026-08-06
+Google Play,"Please add a dark mode option for evening use.",4,2026-08-07
+Apple App Store,"Support answered quickly and fixed my account issue.",5,2026-08-09
+CSV Survey,"I cannot sign in after changing my password.",1,2026-08-10
+Google Play,"The subscription charged me twice. Please refund one payment.",1,2026-08-11
+Apple App Store,"The app does what it says.",3,2026-08-12
+CSV Survey,"Would like an export feature for my reports.",4,2026-08-13
+Google Play,"It keeps freezing when I upload a photo.",1,2026-08-15
+Apple App Store,"Really useful and reliable, thank you.",5,2026-08-16
+CSV Survey,"The layout is confusing and I cannot find settings.",2,2026-08-17
+Google Play,"Fast and convenient. The new design is excellent.",5,2026-08-18
+Apple App Store,"Customer service never responded to my request.",1,2026-08-19
+CSV Survey,"Please add calendar reminders.",4,2026-08-20
+Google Play,"Sign in verification code never arrives.",1,2026-08-22
+Apple App Store,"Battery drain is high when this app runs in the background.",2,2026-08-23
+CSV Survey,"I like the progress charts, they are motivating.",5,2026-08-24
+Google Play,"Error saving changes. This bug loses my data.",1,2026-08-25
+Apple App Store,"Could you add more languages in a future update?",4,2026-08-27
+CSV Survey,"The app is fine, no major problems so far.",3,2026-08-28
+Google Play,"Very slow loading and frequent crashes this week.",1,2026-09-01
+Apple App Store,"The latest update fixed the login problem. Thanks!",5,2026-09-02
+CSV Survey,"Payment page shows an error when renewing.",2,2026-09-04
+Google Play,"Please add a way to share my progress with family.",4,2026-09-06
+Apple App Store,"Navigation is much clearer after the update.",4,2026-09-08
+CSV Survey,"Still freezes on launch and sometimes crashes.",1,2026-09-10
+Google Play,"Great support team and a very useful app.",5,2026-09-12
+Apple App Store,"The app takes a long time to load my dashboard.",2,2026-09-14
+CSV Survey,"I cannot use the app because account verification fails.",1,2026-09-16
+Google Play,"Please add dark mode and a weekly summary email.",4,2026-09-18
+Apple App Store,"Works as expected.",3,2026-09-20
+CSV Survey,"Another crash after the newest release. Please fix this bug.",1,2026-09-22
+Google Play,"Excellent update, runs smoothly now.",5,2026-09-24
+Apple App Store,"I was charged for a subscription I already cancelled.",1,2026-09-25

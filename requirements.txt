@@ -1,1 +1,9 @@
-# Add your project dependencies here
+pandas>=2.2
+streamlit>=1.40
+plotly>=5.24
+requests>=2.32
+google-play-scraper>=1.2.7
+vaderSentiment>=3.3.2
+reportlab>=4.2
+matplotlib>=3.9
+pytest>=8.3
