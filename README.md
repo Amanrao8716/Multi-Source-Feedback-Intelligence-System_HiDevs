@@ -92,4 +92,18 @@ The tests cover normalization, deduplication, sentiment, CSV validation, connect
 - Trend detection compares negative category counts across adjacent 30-day windows ending at the latest negative review. It flags topics with fewer than two previous-period complaints as new or insufficient-baseline instead of overstating the change. All trend comparisons are descriptive, not significance tests.
 - Confidence is not statistically calibrated. Configurable category management in the UI is a future improvement.
 - Data is kept in Streamlit session state only and is not persisted between sessions.
-- No screenshots are included because the dashboard has not yet been launched in a browser in this workspace.
+## 🎥 Project Demo
+
+Watch the complete project demonstration on YouTube:
+
+[![Watch Demo](https://img.youtube.com/vi/wBHlnMb-96Y/0.jpg)](https://youtu.be/wBHlnMb-96Y)
+
+**[▶ Watch Full Demo on YouTube](https://youtu.be/wBHlnMb-96Y)**
+
+---
+
+## 📸 Screenshots
+
+![The main dashboard provides a centralized view of customer feedback collected from Google Play Store, Apple App Store, and CSV files. It displays key performance indicators, including total feedback, sentiment distribution, average ratings, and source-wise insights, enabling users to quickly understand customer satisfaction and identify areas for improvement.
+](image.png)
+
